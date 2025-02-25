@@ -1,20 +1,38 @@
 # ¡Hola! Soy Eduardo 👋
 
-Soy **Full-Stack Developer** con enfoque en **DevOps y Automatización**. Me especializo en tecnologías como **Python, Flask, React, Docker, Linux y SQL**.
-- 🔧 Buenas prácticas
-- 📚 Aprendizaje constante
-- 🧩 Estandarización del código
+Soy un **Desarrollador Full-Stack** con especialización en **DevOps y Automatización**. Manejo tecnologías como **Python**, **Flask**, **React**, **Docker**, **Linux** y **SQL**.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+## 🔧 Habilidades y Tecnologías
 
-♟️ Ajedrez | 🐧 Linux | 🏋️ Fitness | 🌱 Proyectos Open Source
+- **Lenguajes de Programación**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Herramientas de Desarrollo**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- **Bases de Datos**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-📫 Puedes contactarme vía edunavata@gmail.com o conectar en LinkedIn.
+## 🛠️ Principios de Trabajo
+
+- **Buenas Prácticas**: Código limpio y mantenible.
+- **Estandarización**: Aplicación de estándares y convenciones en todos los proyectos.
+- **Aprendizaje Constante**: Siempre explorando nuevas tecnologías y metodologías.
+
+## 🌱 Intereses Personales
+
+Además del desarrollo de software, disfruto de:
+
+- ♟️ **Ajedrez**: Estrategia y táctica en cada movimiento.
+- 🏋️ **Fitness**: Mantener un estilo de vida saludable.
+- 🐧 **Linux**: Apasionado por el software libre y de código abierto.
+- 🌐 **Proyectos Open Source**: Contribuir y colaborar con la comunidad.
+
+## 📫 Contacto
+
+Puedes contactarme a través de [edunavata@gmail.com](mailto:edunavata@gmail.com) o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/tu-perfil).
+
+---
+
+*Nota: Este README está en constante actualización para reflejar mis proyectos y habilidades más recientes.*
+
+
 
 <!--
 **edunavata/edunavata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
