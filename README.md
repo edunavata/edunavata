@@ -2,6 +2,8 @@
 
 Soy un **Desarrollador Full-Stack** con especialización en **DevOps y Automatización**. Manejo tecnologías como **Python**, **Flask**, **React**, **Docker**, **Linux** y **SQL**.
 
+🎓 **Finalizando Ingeniería Informática en la Universidad Carlos III de Madrid (UC3M).**
+
 ## 🔧 Habilidades y Tecnologías
 
 - **Lenguajes de Programación**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
