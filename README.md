@@ -28,8 +28,7 @@ Además del desarrollo de software, disfruto de:
 
 ## 📫 Contacto
 
-Puedes contactarme a través de [edunavata@gmail.com](mailto:edunavata@gmail.com) o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/eduardo-glez-fdez/).
-
+Puedes contactarme a través de [edunavata@gmail.com](mailto:edunavata@gmail.com) o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/eduardo-glez-fdez/). También puedes vistar mi [blog](https://edunavata.com/es/).
 ---
 
 *Nota: Este README está en constante actualización para reflejar mis proyectos y habilidades más recientes.*
