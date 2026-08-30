@@ -20,8 +20,8 @@ Off the clock I run a home lab on Fedora with an RTX 5060 Ti, self-hosting servi
 
 ### Projects
 
-- **[GPU-BD](https://github.com/edunavata)** — Idempotent ETL pipeline over GPU market data using a Medallion architecture, with LLM-based enrichment of technical specs.
-- **[GPU-MCP](https://github.com/edunavata)** — MCP server exposing a structured GPU database to LLM clients, integrating the OpenAI API and Ollama.
+- **[GPU-BD](https://github.com/edunavata/GPU-BD)** — Idempotent ETL pipeline over GPU market data using a Medallion architecture, with LLM-based enrichment of technical specs.
+- **[GPU-MCP](https://github.com/edunavata/GPU-MCP)** — MCP server exposing a structured GPU database to LLM clients, integrating the OpenAI API and Ollama.
 
 I write about most of this at **[edunavata.com](https://edunavata.com/es/)**.
 
